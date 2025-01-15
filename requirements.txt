@@ -1,0 +1,6 @@
+# requirements for my climbing data app
+streamlit
+pandas
+numpy
+sqlite3
+os
